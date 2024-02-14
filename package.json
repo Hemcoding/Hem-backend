@@ -1,0 +1,17 @@
+{
+  "name": "third-server",
+  "version": "1.0.0",
+  "description": "backend practice work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practice",
+    "javascript",
+    "backend",
+    "HJParmar"
+  ],
+  "author": "HJParmar",
+  "license": "ISC"
+}
